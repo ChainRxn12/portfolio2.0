@@ -10,6 +10,7 @@
 * [Deployed URL](#Deployed-url)
 * [Future Development](#Future-development)
 * [Contact Info](#Contact-info)
+* [Acknowledgments](#Acknowledgments)
 
 ## Project Overview 
 💰 💰 💰 💰 💰 💰
@@ -62,3 +63,7 @@
 * Phone: 512-658-0469
 * [linkedIn](https://www.linkedin.com/in/billy-dorman-b51129205/ "LinkedIn Home")
 
+## Acknowledgments
+
+*  Free Code Academy
+*  Patrick Muriungi - https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
