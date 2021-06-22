@@ -5,6 +5,7 @@
 📈 📈 📈 📈 📈 📈 
 
 * [Project Overview](#Project-overview)
+* [Technology Used](#Technology-used)
 * [Screenshots](#Screenshots)
 * [Deployed URL](#Deployed-url)
 * [Future Development](#Future-development)
@@ -22,6 +23,14 @@
 * => Technology Used
 * => Creativity
 * => Education
+
+## Technology Used
+* CSS
+* HTML
+* Bootstrap
+* SASS
+* Node
+* FontAwesome
 
 
 ## Screenshots 
