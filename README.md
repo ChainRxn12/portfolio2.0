@@ -9,6 +9,7 @@
 * [Screenshots](#Screenshots)
 * [Deployed URL](#Deployed-url)
 * [Future Development](#Future-development)
+* [Contact Info](#Contact-info)
 
 ## Project Overview 
 💰 💰 💰 💰 💰 💰
@@ -56,4 +57,8 @@
 * Replace all the "Lorem-Ipsum" with proper text
 * Touch up the styling in "Education" section and footer
 
+## Contact Info
+
+* Phone: 512-658-0469
+[linkedIn](https://www.linkedin.com/in/billy-dorman-b51129205/ "LinkedIn Home")
 
