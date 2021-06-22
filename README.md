@@ -28,7 +28,7 @@
 * CSS
 * HTML
 * Bootstrap
-* SASS
+* SASS/SCSS
 * Node
 * FontAwesome
 
