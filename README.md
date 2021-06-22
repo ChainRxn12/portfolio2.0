@@ -60,5 +60,5 @@
 ## Contact Info
 
 * Phone: 512-658-0469
-[linkedIn](https://www.linkedin.com/in/billy-dorman-b51129205/ "LinkedIn Home")
+* [linkedIn](https://www.linkedin.com/in/billy-dorman-b51129205/ "LinkedIn Home")
 
