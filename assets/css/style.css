@@ -11139,13 +11139,16 @@ textarea.form-control-lg {
   color: #fff;
 }
 .footer-sm a i {
-  font-size: 1rem;
+  font-size: 1.5rem;
   margin-left: 1rem;
 }
 @media (min-width: 576px) {
   .footer-sm a i {
     width: 1.6rem;
   }
+}
+.footer-sm a:hover {
+  color: #ff0fd7;
 }
 
 .company-list {

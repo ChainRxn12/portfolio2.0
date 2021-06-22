@@ -19,6 +19,7 @@
         @include media-breakpoint-up(sm) {
             width: 4rem;
         }
+
     }
 
     &__info {
@@ -55,12 +56,15 @@
         color: $white;
 
         i {
-            font-size: 1rem;
+            font-size: 1.5rem;
             margin-left: 1rem;
 
             @include media-breakpoint-up(sm) {
                 width: 1.6rem;
             }
+        }
+        &:hover {
+            color: $secondary;
         }
     }
 }
