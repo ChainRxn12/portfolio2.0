@@ -5,9 +5,11 @@
 📈 📈 📈 📈 📈 📈 
 
 * [Project Overview](#Project-overview)
+* [Technology Used](#Technology-used)
 * [Screenshots](#Screenshots)
 * [Deployed URL](#Deployed-url)
 * [Future Development](#Future-development)
+* [Contact Info](#Contact-info)
 
 ## Project Overview 
 💰 💰 💰 💰 💰 💰
@@ -22,6 +24,15 @@
 * => Technology Used
 * => Creativity
 * => Education
+
+## Technology Used
+* CSS
+* HTML
+* Bootstrap
+* SASS/SCSS
+* Node
+* FontAwesome
+* JavaScript
 
 
 ## Screenshots 
@@ -46,4 +57,8 @@
 * Replace all the "Lorem-Ipsum" with proper text
 * Touch up the styling in "Education" section and footer
 
+## Contact Info
+
+* Phone: 512-658-0469
+* [linkedIn](https://www.linkedin.com/in/billy-dorman-b51129205/ "LinkedIn Home")
 
