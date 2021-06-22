@@ -25,13 +25,13 @@
 * => Education
 
 ## Technology Used
-* *CSS
-* *HTML
-* *Bootstrap
-* *SASS/SCSS
-* *Node
-* *FontAwesome
-* *JavaScript
+*CSS
+*HTML
+*Bootstrap
+*SASS/SCSS
+*Node
+*FontAwesome
+*JavaScript
 
 
 ## Screenshots 
