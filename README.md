@@ -65,5 +65,5 @@
 
 ## Acknowledgments
 
-*  Free Code Academy
+*  Free Code Camp
 *  Patrick Muriungi - https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template
