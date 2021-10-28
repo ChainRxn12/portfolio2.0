@@ -124,6 +124,12 @@ p {
   margin-bottom: 1rem;
 }
 
+.tech-used {
+  color: rgb(4, 51, 121);
+  font-size: .7rem;
+  text-align: center;
+}
+
 abbr[title],
 abbr[data-bs-original-title] {
   text-decoration: underline dotted;
